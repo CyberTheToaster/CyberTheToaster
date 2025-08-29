@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amber!
 - 👀 I’m interested in HTML, CSS, And JS.
 - 🌱 I’m currently learning Luau
-- 💞️ I’m looking to collaborate on a Roblox Script.
+- 💞️ I’m looking to collaborate on a Website
 - 📫 How to reach me: jwozcode123@gmail.com
 - 😄 Pronouns: She/Her
 
