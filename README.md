@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amber!
-- 👀 I’m interested in HTML, CSS, And JS.
+- 👀 I’m interested in HTML, CSS, and JS.
 - 🌱 I’m currently learning Luau
 - 💞️ I’m looking to collaborate on a Website
 - 📫 How to reach me: 5mstv7kl3@mozmail.com
